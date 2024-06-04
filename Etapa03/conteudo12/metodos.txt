@@ -1,0 +1,42 @@
+
+split da class string:
+
+ -> split(" ") 
+ saida: palavra
+        palavra
+
+-> split("")
+        p
+        a
+        l
+        a
+        v
+        r
+        a
+
+
+size():
+
+-> Retorna o tamanho da lista 
+
+add():
+
+-> Insere o conteudo da variavel no fim da lista
+
+-> lista.add("Ana") || String nome = "Ana" 
+                        lista.add(nome)
+
+
+add(0, ""): 
+
+-> Insere o texto no indice (os indices posteriores sao "empurrados para frente")
+
+
+get:
+
+-> "Pega" conteudos de uma passando como parametro o indice do item a ser recuperado
+
+
+
+
+
